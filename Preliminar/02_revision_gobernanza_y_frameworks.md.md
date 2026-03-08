@@ -7,15 +7,37 @@ interactúan con la arquitectura.
 
 ## Frameworks Existentes
 
-  Framework   Área   Descripción
-  ----------- ------ -------------
-                     
+<table>
+<thead>
+<tr>
+<th>Framework</th>
+<th>Área</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 ## Procesos Relacionados
 
-  Proceso   Área Responsable   Relación con EA
-  --------- ------------------ -----------------
-                               
+<table>
+<thead>
+<tr>
+<th>Proceso</th>
+<th>Área Responsable</th>
+<th>Relación con EA</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
 
 ## Observaciones
 
