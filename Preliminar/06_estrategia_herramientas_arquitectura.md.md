@@ -1,43 +1,109 @@
-# Paso 5 --- Adaptación del Framework TOGAF
+# Paso 6 --- Estrategia de Herramientas y Técnicas
 
 ## Descripción
 
-Adaptar TOGAF al contexto específico de la organización.
+Definir las herramientas y técnicas que se utilizarán para desarrollar,
+documentar y gobernar la Arquitectura Empresarial del sistema Fintech B2C.
 
-## Terminología
+---
 
-Lista de términos utilizados dentro del proyecto.
-
-<table>
-<thead>
-<tr>
-<th>Término</th>
-<th>Definición</th>
-</tr>
-</thead>
-<tbody>
-<tr><td></td><td></td></tr>
-<tr><td></td><td></td></tr>
-<tr><td></td><td></td></tr>
-</tbody>
-</table>
-
-## Adaptaciones del Proceso
+## Herramientas Seleccionadas
 
 <table>
 <thead>
 <tr>
-<th>Elemento ADM</th>
-<th>Adaptación</th>
+<th>Tipo de Herramienta</th>
+<th>Herramienta</th>
+<th>Uso en el Proyecto</th>
 </tr>
 </thead>
 <tbody>
-<tr><td></td><td></td></tr>
-<tr><td></td><td></td></tr>
-<tr><td></td><td></td></tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
 </tbody>
 </table>
 
-## Contenido Arquitectónico
+---
 
-Describir artefactos o entregables específicos que se producirán.
+## Estrategia de Implementación
+
+Describir cómo se utilizarán las herramientas dentro del proyecto de arquitectura.
+
+<table>
+<thead>
+<tr>
+<th>Actividad</th>
+<th>Herramienta</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+## Control de Artefactos de Arquitectura
+
+<table>
+<thead>
+<tr>
+<th>Elemento</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+</tr>
+
+</tbody>
+</table>
