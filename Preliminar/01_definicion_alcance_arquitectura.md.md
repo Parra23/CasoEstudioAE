@@ -9,6 +9,7 @@ impactados por la Arquitectura Empresarial.
 
 - Nombre del proyecto: FinData
 - Organización: CECAR
+
 - Descripción: Una Fintech(Finanzas y tecnología) de microcréditos
 - Fecha: 2026
 - Autor(es): Jorluis Parra Amell
